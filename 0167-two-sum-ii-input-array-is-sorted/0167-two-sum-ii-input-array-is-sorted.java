@@ -16,6 +16,6 @@ class Solution {
             right--;
         }
        } 
-       return new int[]{-1,-1}; 
+       return new int[]{-1,-1}; //no pair was found
     }
 }
