@@ -7,6 +7,7 @@ class Solution {
         Arrays.sort(nums);
 
         // Step 2: Fix one element at a time
+       // To make the loop stop at n - 3, we write
         for (int i = 0; i < nums.length - 2; i++) {
 
             // Skip duplicate fixed elements
