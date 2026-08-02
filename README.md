@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sritama-script/Dla/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sritama-script/Dla/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sritama-script/Dla/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0877-stone-game](https://github.com/sritama-script/Dla/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sritama-script/Dla/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/sritama-script/Dla/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/sritama-script/Dla/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sritama-script/Dla/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sritama-script/Dla/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sritama-script/Dla/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sritama-script/Dla/tree/master/0402-remove-k-digits) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sritama-script/Dla/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
