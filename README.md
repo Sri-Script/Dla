@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sritama-script/Dla/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sritama-script/Dla/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/sritama-script/Dla/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/sritama-script/Dla/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sritama-script/Dla/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sritama-script/Dla/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/sritama-script/Dla/tree/master/0904-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/sritama-script/Dla/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
