@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sritama-script/Dla/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sritama-script/Dla/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sritama-script/Dla/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/sritama-script/Dla/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/sritama-script/Dla/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sritama-script/Dla/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sritama-script/Dla/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sritama-script/Dla/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/sritama-script/Dla/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
 |  |
 | ------- |
@@ -98,5 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/sritama-script/Dla/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sritama-script/Dla/tree/master/0904-fruit-into-baskets) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/sritama-script/Dla/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
