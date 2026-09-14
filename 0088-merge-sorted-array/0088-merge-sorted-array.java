@@ -3,7 +3,7 @@ class Solution {
         // Step 1: Initialize our three pointers
         int i = m - 1;       // Pointer for valid elements in nums1 done
         int j = n - 1;       // Pointer for nums2 dn
-        int k = m + n - 1;   // Pointer for the placement slot in nums1
+        int k = m + n - 1;   // Pointer for the placement slot in nums1 dn
         
         // Step 2: Compare and merge while both arrays have elements left
         while (i >= 0 && j >= 0) {
