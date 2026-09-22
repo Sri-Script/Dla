@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sritama-script/Dla/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/sritama-script/Dla/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/sritama-script/Dla/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/Sri-Script/Dla/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sri-Script/Dla/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/sritama-script/Dla/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sritama-script/Dla/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Sri-Script/Dla/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sritama-script/Dla/tree/master/0075-sort-colors) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sri-Script/Dla/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
