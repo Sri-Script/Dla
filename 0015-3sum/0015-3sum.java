@@ -1,7 +1,7 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
 
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>(); //dynamically grow and shrink in size along both dimensions
 
         // Step 1: Sort the array
         Arrays.sort(nums);
