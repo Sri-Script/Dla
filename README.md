@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sri-Script/Dla/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/sritama-script/Dla/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -149,4 +150,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Sri-Script/Dla/tree/master/1143-longest-common-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sri-Script/Dla/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sri-Script/Dla/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sri-Script/Dla/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sri-Script/Dla/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
