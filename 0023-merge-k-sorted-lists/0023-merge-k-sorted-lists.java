@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
+    public ListNode mergeKLists(ListNode[] listss) {
 
         PriorityQueue<ListNode> minHeap =
             new PriorityQueue<>((a, b) -> a.val - b.val);
