@@ -4,7 +4,7 @@ class Solution {
         if (n == 0) {
             List<Integer> base = new ArrayList<>();
             base.add(0);
-            return base;
+            return base; //
         }
 
         // Recursively get the Gray Code list for n-1 bits
