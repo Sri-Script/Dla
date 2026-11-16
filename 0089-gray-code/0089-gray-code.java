@@ -2,7 +2,7 @@ class Solution {
     public List<Integer> grayCode(int n) {
         // Base case: for n=0, only one code exists: 0
         if (n == 0) {
-            List<Integer> base = new ArrayList<>();
+            List<Integer> base = new ArrayList<>()
             base.add(0);
             return base; //
         }
