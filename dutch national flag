@@ -4,7 +4,7 @@ class Solution {
 
 
         int low = 0;                 // position for next 0
-        int mid = 0;                 // current element
+        int mid = 0;                 // current element mid
         int high = nums.length - 1;  // position for next 2
 
         while (mid <= high) {
