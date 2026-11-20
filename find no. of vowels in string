@@ -1,3 +1,4 @@
+// find no. of vowels in a string
 public class NumberOfVowels {
   public static void main(String[] args) {
     String s ="rewophgbdftjaoowgtcfgwlqyerwyueb";
